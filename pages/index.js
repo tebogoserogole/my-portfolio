@@ -155,8 +155,8 @@ export default function Home() {
               </h3>
 
               <p className="leading-6 text-gray-500">
-                A ChatBot that enables TUT applicants to check their statuses on
-                WhatsApp if they don't have Internet Data Bundles
+                {`A ChatBot that enables TUT applicants to check their statuses on
+                WhatsApp if they don't have Internet Data Bundles`}
               </p>
               <h3 className="text-green-900 font-medium text-lg">
                 Tech Specification
